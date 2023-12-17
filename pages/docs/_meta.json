@@ -1,0 +1,54 @@
+{
+    "roadmaps": {
+        "type" : "page",
+        "title" : "Roadmaps"
+    },
+    "html": {
+        "type" : "page",
+        "title" : "HTML"
+    },
+    "css": {
+        "type" : "page",
+        "title" : "CSS"
+    },
+    "javascript": {
+        "type" : "page",
+        "title" : "JavaScript"
+    },
+    "sass": {
+        "type" : "page",
+        "title" : "Sass"
+    },
+    "php": {
+        "type" : "page",
+        "title" : "PHP"
+    },
+    "python": {
+        "type" : "page",
+        "title" : "Python"
+    },
+    "java": {
+        "type" : "page",
+        "title" : "Java"
+    },
+    "c": {
+        "type" : "page",
+        "title" : "C Programming"
+    },
+    "cpp": {
+        "type" : "page",
+        "title" : "C++ Programming"
+    },
+    "react": {
+        "type" : "page",
+        "title" : "React"
+    },
+    "mongodb": {
+        "type" : "page",
+        "title" : "MongoDB"
+    },
+    "math": {
+        "type" : "page",
+        "title" : "Math"
+    }
+}
